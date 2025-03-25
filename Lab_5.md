@@ -23,7 +23,8 @@ The top command provides a real-time view of system processes.
 
 Command:
 top
-![image](https://github.com/user-attachments/assets/25232314-3fe2-4bab-8894-8c6b77875d8e)
+![image](https://github.com/user-attachments/assets/a876a012-10a8-43df-a2ed-0960d744c618)
+
 
 Terminating Processes with kill
 ![image](https://github.com/user-attachments/assets/e4778b41-2104-4f73-bbc1-2e625d06e1f1)
