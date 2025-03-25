@@ -17,7 +17,8 @@ Output:-
 Step2:
 Mathematical Calculation Commands:
 create new shell file
-![image](https://github.com/user-attachments/assets/6805dac9-d986-4bbe-8f06-678680e5b4b9)
+![image](https://github.com/user-attachments/assets/a93442aa-5e9e-423f-a346-12fe6963c750)
+
 
 Output:-
 ![image](https://github.com/user-attachments/assets/613972ad-6328-4a88-b997-60f7c3ab5c92)
