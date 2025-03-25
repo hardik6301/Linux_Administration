@@ -19,21 +19,19 @@ The useradd command is used to create new user accounts.
 Step2:
 Setting and Changing Passwords
 The passwd command is used to assign or update passwords for user accounts.
+![image](https://github.com/user-attachments/assets/a3d4cd07-9c8f-4c91-8720-ef2b4dd48efd)
 
-![image](https://github.com/user-attachments/assets/c6c29dfd-44ae-46e0-b43a-fac6f4b6517f)
 
 Step3:
 Modifying User Accounts
 The usermod command is used to update user account settings.
-
-![image](https://github.com/user-attachments/assets/499f75f8-d021-48d3-abd4-6df9236adff4)
+![image](https://github.com/user-attachments/assets/c8844dc5-8280-42ff-b1e0-ff41af1aa999)
 
 
 Step4:
 Removing User Accounts
 The userdel command is used to delete user accounts.
-
-![image](https://github.com/user-attachments/assets/f89affc7-d0c1-4dc9-8a16-784c1c8c652f)
+![image](https://github.com/user-attachments/assets/5cdb8b2e-d953-4034-94e2-ca880fe63e6c)
 
 
 Conclusion:
