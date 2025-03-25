@@ -18,7 +18,7 @@ sudo chown operator1:operator2 testfile.txt
 
 c. Recursive Ownership Changes
 sudo chown -R operator1:operator1 testdirectory/
-![image](https://github.com/user-attachments/assets/d80622f0-ebe0-4637-aed4-7bc41e35bb64)
+![image](https://github.com/user-attachments/assets/a199d758-77fb-4d3b-9431-c23a7d6a7b7b)
 
 
 Step2:
