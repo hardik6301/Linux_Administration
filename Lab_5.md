@@ -13,8 +13,11 @@ a. Viewing Processes with ps
 The ps command displays details about active processes.
 
 ![image](https://github.com/user-attachments/assets/832d5dc1-7189-4241-9028-16773b4adc94)
+
 ![image](https://github.com/user-attachments/assets/ed7b6d77-e5fc-4f57-b846-35fc9f920c57)
-![image](https://github.com/user-attachments/assets/5a0a99d9-4e8f-4463-8c1c-ec46723d5a8f)
+
+![image](https://github.com/user-attachments/assets/42b68fb2-1f4f-4777-a53e-ed096d7bf31b)
+
 
 
 Step2:
