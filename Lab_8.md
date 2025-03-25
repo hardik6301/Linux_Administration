@@ -11,7 +11,7 @@ Shell scripts to print system information:
 ![image](https://github.com/user-attachments/assets/2bf566bd-141d-455d-92f8-257f849eb936)
 
 Output:-
-![image](https://github.com/user-attachments/assets/e472dd2e-546f-4968-82d7-6f3655c464f3)
+![image](https://github.com/user-attachments/assets/98812015-084f-461e-8ff9-11d48a0ca714)
 
 
 Step2:
