@@ -50,7 +50,7 @@ chmod o+r testfile.txt
 4.Set multiple permissions at once:
 chmod u+rwx,g+rx,o+r testfile.txt
 
-![image](https://github.com/user-attachments/assets/3f3d4f87-64bb-41ee-9076-09bb0a2f3206)
+![image](https://github.com/user-attachments/assets/aa4d9a21-4359-4f1e-966b-470bc7e034b4)
 
 
 Conclusion:
